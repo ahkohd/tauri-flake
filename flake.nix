@@ -26,7 +26,7 @@
 
           nodejs_18
 
-          pnpm
+          nodePackages.pnpm
         ];
 
         nativeBuildPackages = with pkgs; [
